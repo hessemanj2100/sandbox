@@ -1,6 +1,6 @@
 <?php
 require_once('../../util/main.php');
-require_once('util/secure_conn.php');
+//require_once('util/secure_conn.php');
 require_once('model/admin_db.php');
 
 if (isset($_SESSION['user'])) {
