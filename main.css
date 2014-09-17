@@ -15,7 +15,8 @@ h2 {
     padding: .5em 0 .25em;
 }
 h1, h2 {
-    color: rgb(205, 163, 94);
+    //color: rgb(205, 163, 94);
+    color: #0066cc;
 }
 
 ul {
@@ -80,7 +81,8 @@ br {
 #header h1 {
     margin: 0;
     padding: .5em 0;
-    color: black;
+    //color: black;
+    color: #0066cc;
 }
 #main {
     margin: 0;
