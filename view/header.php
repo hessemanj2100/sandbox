@@ -13,6 +13,6 @@
     <body>
     <div id="page">
         <div id="header">
-            <h1>My Guitar Shop</h1>
+            <h1>Guitar Shop</h1>
         </div>
         <div id="main">
